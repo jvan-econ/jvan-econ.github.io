@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Jarron VanCeylon"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD, Environmental and Natural Resource Economics"
-  location         : "Rhode Island & Belfast"
-  employer         : "Postdoctoral Researcer at University of Rhode Island"
+  location         : 
+  employer         : "University of Rhode Island"
   googlescholar    : "https://scholar.google.com/citations?user=j90Xhi8AAAAJ&hl=en"
   email            : "jvanceylon@uri.edu"
   researchgate     :  
