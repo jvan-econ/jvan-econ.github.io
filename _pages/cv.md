@@ -26,7 +26,7 @@ Research
 
 Teaching
 ======
-*University of Rhode Island
+University of Rhode Island
 * Instructor of record
   * ECN 201: Principles of Microeconomics (Fall 2021)
   * EEC 105: Intro to Natural Resource Economics (Fall 2022)
@@ -58,10 +58,10 @@ Talks
   
 Service
 ======
-*NAREA: Communications Team/Web Master, 2022 – 2023
-*URI: Graduate Student Social Chair, 2020
-*Member: AERE, NAREA
-*Referee: AJARE
+* NAREA: Communications Team/Web Master, 2022 – 2023
+* URI: Graduate Student Social Chair, 2020
+* Member: AERE, NAREA
+* Referee: AJARE
 
 Grants & Professional Certifications
 ======
