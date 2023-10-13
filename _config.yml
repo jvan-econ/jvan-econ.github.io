@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jarron VanCeylon, PhD"
-title_separator          : 
+title                    : "Your Name / Site Title"
+title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://jvan-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -56,7 +56,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter: 
+twitter:
   username               : &twitter
 facebook:
   username               :
