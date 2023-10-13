@@ -11,49 +11,59 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, Gordon College, 2017
+* M.S. in Environmental and Natural Resource Economics, University of Rhode Island, 2019
+* Ph.D in Environmental and Natural Resource Economics, University of Rhode Island, 2023 
 
-Work experience
+Research
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Researcher (2023-)
+  * to Dr. Corey Lang
+* Graduate Research Assistant (2018-2023)
+  * to Dr. Corey Lang
+* Graduate Research Assistant (2017)
+  * to Dr. Hiro Uchida 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Teaching
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*University of Rhode Island
+* Instructor of record
+  * ECN 201: Principles of Microeconomics (Fall 2021)
+  * EEC 105: Intro to Natural Resource Economics (Fall 2022)
+* Guest Lecturer
+  * EEC 676: Econometrics II (Spring 2023)
+  * EEC 534: Environmental Economics (Spring 2023)
+* Teaching Assistant
+  * EEC 430: Env. Economics Capstone Course (Fall 2017)
+  * EEC 105: Intro to Natural Resource Economics (Spring 2018)
+ 
+
+Software & Programming
+======
+* Advanced: Stata
+* Intermediate: R, ArcPro, ArcGIS
+* Basic: Python
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Lang, Corey, Jarron VanCeylon, and Amy W. Ando. "Distribution of capitalized benefits from land conservation." Proceedings of the National Academy of Sciences 120.18 (2023): e2215262120.
+* Blanchette, Alex, Corey Lang, and Jarron VanCeylon. "Variation in valuation: Open space and geography." Land Economics 97.4 (2021): 768-780.
+* VanCeylon, Jarron, Corey Lang, and Austin Becker. "Whatever floats your vote: understanding voter support for public port infrastructure investments." Maritime Policy & Management 47.8 (2020): 969-984.
+    
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2023: USDA W5133 Annual Meeting (New Orleans, LA); AERE Annual Summer Conference (Portland, ME); Social Science Institute for Research, Education, and Policy (Kingston, Rhode Island); Woods Hole Oceanographic Institute (Woods Hole, MA)
+* 2022: AERE, Annual Summer Conference (Miami, FL); NAREA, Summer Conference (Mystic, CT)
+* 2019: USDA W4133, Annual Meeting (Santa Fe, NM)
   
-Teaching
+Service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+*NAREA: Communications Team/Web Master, 2022 – 2023
+*URI: Graduate Student Social Chair, 2020
+*Member: AERE, NAREA
+*Referee: AJARE
+
+Grants & Professional Certifications
 ======
-* Currently signed in to 43 different slack teams
+* Enhancement of Graduate Research Award (Grant), 2022-2023
+* Diversity, Equity and Inclusion Badge Program (URI), 2022
