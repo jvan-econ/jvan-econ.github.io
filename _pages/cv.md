@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: <u>"CV"</u>
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Economics, Gordon College, 2017
-* M.S. in Environmental and Natural Resource Economics, University of Rhode Island, 2019
-* Ph.D in Environmental and Natural Resource Economics, University of Rhode Island, 2023 
+* B.A. in Economics, Gordon College (2017)
+* M.S. in Environmental and Natural Resource Economics, University of Rhode Island (2019)
+* Ph.D in Environmental and Natural Resource Economics, University of Rhode Island (2023) 
 
 Research
 ======
@@ -27,7 +27,7 @@ Research
 Teaching
 ======
 University of Rhode Island
-* Instructor of record
+* Instructor of Record
   * ECN 201: Principles of Microeconomics (Fall 2021)
   * EEC 105: Intro to Natural Resource Economics (Fall 2022)
 * Guest Lecturer
@@ -58,12 +58,12 @@ Talks
   
 Service
 ======
-* NAREA: Communications Team/Web Master, 2022 – 2023
-* URI: Graduate Student Social Chair, 2020
+* NAREA: Communications Team/Web Master (2022 – 2023)
+* URI: Graduate Student Social Chair (2020)
 * Member: AERE, NAREA
 * Referee: AJARE
 
 Grants & Professional Certifications
 ======
-* Enhancement of Graduate Research Award (Grant), 2022-2023
-* Diversity, Equity and Inclusion Badge Program (URI), 2022
+* Enhancement of Graduate Research Award (2022-2023)
+* Diversity, Equity and Inclusion Badge Program (2022)
