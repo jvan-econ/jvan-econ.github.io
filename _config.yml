@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "PhD, Environmental and Natural Resource Economics"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jarron VanCeylon"
+description              : &description "I am an applied microeconomist with a focus on Environmental Economics. My primary research focuses on the intersection of environmental justice, equity, and land conservation efforts. I am an active researcher in my field and have published in several journals such as Proceedings of the National Academy of Sciences and Land Economics. Additional research interests include urban economics, mobility and residential sorting, public goods, voting, and non-market valuation."
 url                      : https://jvan-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+twitter: 
+  username               : &twitter 
 facebook:
   username               :
   app_id                 :
