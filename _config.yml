@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PhD, Environmental and Natural Resource Economics"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Jarron VanCeylon"
-description              : &description "I am an applied microeconomist with a focus on Environmental Economics. My primary research focuses on the intersection of environmental justice, equity, and land conservation efforts. I am an active researcher in my field and have published in several journals such as Proceedings of the National Academy of Sciences and Land Economics. Additional research interests include urban economics, mobility and residential sorting, public goods, voting, and non-market valuation."
+description              : &description
 url                      : https://jvan-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jarron VanCeylon"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "PhD, Environmental and Natural Resource Economics"
+  location         : "Rhode Island & Belfast"
+  employer         : "Postdoctoral Researcer at University of Rhode Island"
+  googlescholar    : "https://scholar.google.com/citations?user=j90Xhi8AAAAJ&hl=en"
+  email            : "jvanceylon@uri.edu"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jvan-econ"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3804-6368"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "jvanceylon_econ"
   vine             :
   weibo            :
   xing             :
