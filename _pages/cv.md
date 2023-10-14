@@ -17,16 +17,13 @@ Education
 
 Research
 ======
-* Postdoctoral Researcher (2023-)
-  * to Dr. Corey Lang
-* Graduate Research Assistant (2018-2023)
-  * to Dr. Corey Lang
-* Graduate Research Assistant (2017)
-  * to Dr. Hiro Uchida 
+* Postdoctoral Researcher - Dr. Corey Lang (2023-)
+* Graduate Research Assistant - Dr. Corey Lang (2018-2023)
+* Graduate Research Assistant- Dr. Hiro Uchida  (2017)
 
 Teaching
 ======
-University of Rhode Island
+<u>University of Rhode Island</u>
 * Instructor of Record
   * ECN 201: Principles of Microeconomics (Fall 2021)
   * EEC 105: Intro to Natural Resource Economics (Fall 2022)
@@ -50,7 +47,7 @@ Publications
 * Blanchette, Alex, Corey Lang, and Jarron VanCeylon. "Variation in valuation: Open space and geography." Land Economics 97.4 (2021): 768-780.
 * VanCeylon, Jarron, Corey Lang, and Austin Becker. "Whatever floats your vote: understanding voter support for public port infrastructure investments." Maritime Policy & Management 47.8 (2020): 969-984.
     
-Talks
+Seminars & Presentations
 ======
 * 2023: USDA W5133 Annual Meeting (New Orleans, LA); AERE Annual Summer Conference (Portland, ME); Social Science Institute for Research, Education, and Policy (Kingston, Rhode Island); Woods Hole Oceanographic Institute (Woods Hole, MA)
 * 2022: AERE, Annual Summer Conference (Miami, FL); NAREA, Summer Conference (Mystic, CT)
@@ -58,10 +55,10 @@ Talks
   
 Service
 ======
+* Member: Association of Environmental and Resource Economists (AERE), Northeastern Agricultural and Resource Economics Association (NAREA)
 * NAREA: Communications Team/Web Master (2022 – 2023)
 * URI: Graduate Student Social Chair (2020)
-* Member: AERE, NAREA
-* Referee: AJARE
+* Referee: Australian Journal of Agriculture and Resource Economics (AJARE)
 
 Grants & Professional Certifications
 ======
