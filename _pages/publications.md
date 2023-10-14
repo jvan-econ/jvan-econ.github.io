@@ -19,7 +19,7 @@ Published in *Land Economics*, 2021 <br>
 Alex Blanchette, Corey Lang, and Jarron VanCeylon
 
 ## [Whatever floats your vote: understanding voter support for public port infrastructure investments](https://doi.org/10.1080/03088839.2020.1754478)
-Published in *Maritime Policy & Management*, 2023 <br>
+Published in *Maritime Policy & Management*, 2020 <br>
 Jarron VanCeylon, Corey Lang, and Austin Becker
 
 
