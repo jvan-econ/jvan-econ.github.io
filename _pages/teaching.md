@@ -9,15 +9,16 @@ author_profile: true
 
 ## <u>Courses</u>
 ### ECN105: Introduction to Natural Resource Economics
-*Fall 2022. 250 Students. Online & In-Person.*
+*Fall 2022. 250 Students. Online & In-Person.* <br> 
 <u>Syllabus</u>
 
 ### ECN201: Principles of Microeconomics
-*Fall 2021. 45 Students. In-Person.* 
+*Fall 2021. 45 Students. In-Person.* <br>
 <u>Syllabus</u>
 
-Selected Student Comments: <br>
+<u>Selected Student Comments:</u> <br>
 *-"Professor VanCeylon was a wonderful instructor. He seemed very knowledgeable in his subject area and connected with students on their level. He was one of my favorite professors this semester"*<br>
+
 *-"Thank you for a pretty good semester!!"*
 
 
