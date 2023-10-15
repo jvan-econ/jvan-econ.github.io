@@ -4,7 +4,7 @@ main:
     url: /publications/
     
   - title: "CV"
-    url: /cv/
+    url: https://jvan-econ.github.io/cv.pdf
     
   - title: "Teaching & Data"
     url: /teaching/    
