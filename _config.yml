@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jarron VanCeylon"
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpg" 
   bio              : "PhD, Environmental and Natural Resource Economics"
   location         : 
   employer         : "University of Rhode Island"
