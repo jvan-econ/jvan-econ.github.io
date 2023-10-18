@@ -9,11 +9,6 @@ author_profile: true
 Published in *Proceedings of the National Academy of Sciences*, 2023 <br>
 Corey Lang, Jarron VanCeylon, and Amy Ando
 
-
-## <u>Does land conservation financially harm renters?</u>
-Currently in review at *Journal of Environmental Economics and Management*, 2023 <br>
-Corey Lang and Jarron VanCeylon
-
 ## [Variation in valuation: open space and geography](https://le.uwpress.org/content/early/2021/09/28/le.97.4.011720-0005R)
 Published in *Land Economics*, 2021 <br>
 Alex Blanchette, Corey Lang, and Jarron VanCeylon
@@ -22,4 +17,14 @@ Alex Blanchette, Corey Lang, and Jarron VanCeylon
 Published in *Maritime Policy & Management*, 2020 <br>
 Jarron VanCeylon, Corey Lang, and Austin Becker
 
+# <u>Working Papers</u>
 
+## <u>Does land conservation financially harm renters?</u>
+Currently in review at *Journal of Environmental Economics and Management*, 2023 <br>
+Corey Lang and Jarron VanCeylon
+
+## <u>Voting with their feet: Do Partisans Value Neighborhood Public Goods Differently?</u>
+Corey Lang and Jarron VanCeylon
+
+## <u>Green Development Projects and Gentrification</u>
+Jarron VanCeylon and Max Melstrom
