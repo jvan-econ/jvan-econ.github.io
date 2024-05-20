@@ -20,7 +20,7 @@ Jarron VanCeylon, Corey Lang, and Austin Becker
 # <u>Working Papers</u>
 
 ## <u>Does land conservation financially harm renters?</u>
-Currently in review at *Ecological Economics*, 2023 <br>
+Currently in review at *Land Use Policy*, 2024 <br>
 Corey Lang and Jarron VanCeylon
 
 ## <u>Voting with their feet: Do Partisans Value Neighborhood Public Goods Differently?</u>
@@ -28,3 +28,13 @@ Corey Lang and Jarron VanCeylon
 
 ## <u>Green Development Projects and Gentrification</u>
 Jarron VanCeylon and Max Melstrom
+
+## <u>Heterogeneous Household Migration in Response to Climate and Natural Disasters</u>
+Jarron VanCeylon and Max Melstrom
+
+## <u>Estimating Renter Willingness to Pay for Urban Greenspace</u>
+Jarron VanCeylon
+
+## <u> Individual Voting Determinants for School Bonds: Evidence from Multiple Exit Polls</u>
+Corey Lang and Jarron VanCeylon
+
