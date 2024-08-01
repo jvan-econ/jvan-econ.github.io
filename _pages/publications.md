@@ -24,10 +24,16 @@ Currently in review at *Land Use Policy*, 2024 <br>
 Corey Lang and Jarron VanCeylon
 
 ## <u>Voting with their feet: Do Partisans Value Neighborhood Public Goods Differently?</u>
+Currently in review at *JAERE*, 2024 <br>
 Corey Lang and Jarron VanCeylon
 
 ## <u>Green Development Projects and Gentrification</u>
+Submitted to *Ecological Economics*, 2024 <br>
 Jarron VanCeylon and Max Melstrom
+
+## <u> Contrasting Determinants of Voter Approval of Statewide and Municipal School Bonds Evidence from Exit Polls</u>
+Submitted to *Eonomics Letters*, 2024 <br>
+Corey Lang and Jarron VanCeylon
 
 ## <u>Heterogeneous Household Migration in Response to Climate and Natural Disasters</u>
 Jarron VanCeylon and Max Melstrom
@@ -35,6 +41,5 @@ Jarron VanCeylon and Max Melstrom
 ## <u>Estimating Renter Willingness to Pay for Urban Greenspace</u>
 Jarron VanCeylon
 
-## <u> Individual Voting Determinants for School Bonds: Evidence from Multiple Exit Polls</u>
-Corey Lang and Jarron VanCeylon
+
 
