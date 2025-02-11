@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+## <u>Green Development Projects and Gentrification</u>
+forthcoming at *Southern Economic Journal*, 2025 <br>
+Jarron VanCeylon and Richard T. Melstrom
+
+## [Individual voter determinants of school bond approval: evidence from exit polls](https://doi.org/10.1080/13504851.2025.2462719)
+Published in *Applied Economics Letters*, 2023 <br>
+Corey Lang and Jarron VanCeylon
+
+## [Open Space](https://doi.org/10.1007/978-3-031-25900-5_302-1)
+Published in *The Encyclopedia of Human Geography*, 2025 <br>
+Corey Lang and Jarron VanCeylon
+
 ## [Distribution of capitalized benefits from land conservation](https://www.pnas.org/doi/10.1073/pnas.2215262120)
 Published in *Proceedings of the National Academy of Sciences*, 2023 <br>
 Corey Lang, Jarron VanCeylon, and Amy Ando
@@ -19,28 +31,24 @@ Jarron VanCeylon, Corey Lang, and Austin Becker
 
 # <u>Working Papers</u>
 
-## <u>Does land conservation financially harm renters?</u>
-Currently in review at *Land Use Policy*, 2024 <br>
-Corey Lang and Jarron VanCeylon
-
 ## <u>Voting with their feet: Do Partisans Value Neighborhood Public Goods Differently?</u>
-Currently in review at *JEEM*, 2024 <br>
+Revise and resubmit at *JEEM*, 2025 <br>
 Corey Lang and Jarron VanCeylon
 
-## <u>Green Development Projects and Gentrification</u>
-Currently in review at *Southern Economic Journal*, 2024 <br>
-Jarron VanCeylon and Max Melstrom
-
-## <u> Voter Determinants for School Bonds: Evidence from Rhode Island Exit polls </u>
-Currently in review at *Applied Eonomics Letters*, 2024 <br>
+## <u>Does land conservation financially harm renters?</u>
+Currently in review at *Landscape and Urban Planning*, 2025 <br>
 Corey Lang and Jarron VanCeylon
 
 ## <u>Household Migration in Response to Climate and Natural Disasters: Heterogeneous Sorting and Rural-Urban Resilience</u>
-Jarron VanCeylon and Max Melstrom
+Currently in review at *AJAE*, 2025 <br>
+Jarron VanCeylon and Richard T. Melstrom
 
 ## <u>Renter Willingness to Pay for Urban Greenspace</u>
+Currently in review at *ARER*, 2025 <br>
 Jarron VanCeylon
 
-## <u> Partisan Divides and Sorting Over Political Neighborhoods <u/> 
+## <u> Partisan Divides and Sorting Over Political Neighborhoods<u/> 
 Corey Lang, Jarron VanCeylon, and Shanna Pearson-Merkowitz
 
+## <u>Historic redlining and the Distribution of Environmental Capital</u>
+Jarron VanCeylon and Richard T. Melstrom
