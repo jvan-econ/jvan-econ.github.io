@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## <u>Green Development Projects and Gentrification</u>
+## <u>Greenway Development and Gentrification</u>
 forthcoming at *Southern Economic Journal*, 2025 <br>
 Jarron VanCeylon and Richard T. Melstrom
 
@@ -35,7 +35,7 @@ Jarron VanCeylon, Corey Lang, and Austin Becker
 Revise and resubmit at *JEEM*, 2025 <br>
 Corey Lang and Jarron VanCeylon
 
-## <u>Does land conservation financially harm renters?</u>
+## [Does land conservation financially harm renters?](https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1005&context=enre_working_papers)
 Currently in review at *Landscape and Urban Planning*, 2025 <br>
 Corey Lang and Jarron VanCeylon
 
@@ -50,5 +50,5 @@ Jarron VanCeylon
 ## <u> Partisan Divides and Sorting Over Political Neighborhoods<u/> 
 Corey Lang, Jarron VanCeylon, and Shanna Pearson-Merkowitz
 
-## <u>Historic redlining and the Distribution of Environmental Capital</u>
+## <u>Redlining and the Geography of Environmental Capital</u>
 Jarron VanCeylon and Richard T. Melstrom
