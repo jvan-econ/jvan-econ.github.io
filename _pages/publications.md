@@ -46,8 +46,9 @@ Jarron VanCeylon
 Currently in review at *Landscape and Urban Planning*, 2025 <br>
 Corey Lang and Jarron VanCeylon
 
+## <u>Redlining and the Geography of Environmental Capital</u>
+Currently in review at *JEEM*, 2025 <br>
+Jarron VanCeylon and Richard T. Melstrom
+
 ## <u> Partisan Divides and Sorting Over Political Neighborhoods<u/> 
 Corey Lang, Jarron VanCeylon, and Shanna Pearson-Merkowitz
-
-## <u>Redlining and the Geography of Environmental Capital</u>
-Jarron VanCeylon and Richard T. Melstrom
