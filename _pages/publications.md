@@ -4,7 +4,7 @@ title: <u>Publications</u>
 permalink: /publications/
 author_profile: true
 ---
-## </u>Voting with Their (Left and Right) Feet: Are Homebuyers’ Values of Neighborhood Environmental Amenities Consistent with their Politics?</u>
+## <u>Voting with Their (Left and Right) Feet: Are Homebuyers’ Values of Neighborhood Environmental Amenities Consistent with their Politics?</u>
 Forthcoming in *Journal of Environmental Economics and Management*, 2025 <br>
 Corey Lang and Jarron VanCeylon
 
