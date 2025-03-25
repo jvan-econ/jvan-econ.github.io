@@ -4,9 +4,12 @@ title: <u>Publications</u>
 permalink: /publications/
 author_profile: true
 ---
+## </u>Voting with Their (Left and Right) Feet: Are Homebuyers’ Values of Neighborhood Environmental Amenities Consistent with their Politics?</u>
+Forthcoming in *Journal of Environmental Economics and Management*, 2025 <br>
+Corey Lang and Jarron VanCeylon
 
-## <u>Greenway Development and Gentrification</u>
-forthcoming at *Southern Economic Journal*, 2025 <br>
+## [Greenway Development and Gentrification](https://doi.org/10.1002/soej.12768)
+Published in *Southern Economic Journal*, 2025 <br>
 Jarron VanCeylon and Richard T. Melstrom
 
 ## [Individual voter determinants of school bond approval: evidence from exit polls](https://doi.org/10.1080/13504851.2025.2462719)
@@ -31,21 +34,17 @@ Jarron VanCeylon, Corey Lang, and Austin Becker
 
 # <u>Working Papers</u>
 
-## <u>Voting with their feet: Do Partisans Value Neighborhood Public Goods Differently?</u>
-Revise and resubmit at *JEEM*, 2025 <br>
-Corey Lang and Jarron VanCeylon
+## <u>Household Migration in Response to Climate and Natural Disasters: Heterogeneous Sorting and Rural-Urban Resilience</u>
+Revise and resubmit at *AJAE*, 2025 <br>
+Jarron VanCeylon and Richard T. Melstrom
+
+## <u>Renter Willingness to Pay for Urban Greenspace</u>
+Revise and resubmit at *ARER*, 2025 <br>
+Jarron VanCeylon
 
 ## [Does land conservation financially harm renters?](https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1005&context=enre_working_papers)
 Currently in review at *Landscape and Urban Planning*, 2025 <br>
 Corey Lang and Jarron VanCeylon
-
-## <u>Household Migration in Response to Climate and Natural Disasters: Heterogeneous Sorting and Rural-Urban Resilience</u>
-Currently in review at *AJAE*, 2025 <br>
-Jarron VanCeylon and Richard T. Melstrom
-
-## <u>Renter Willingness to Pay for Urban Greenspace</u>
-Currently in review at *ARER*, 2025 <br>
-Jarron VanCeylon
 
 ## <u> Partisan Divides and Sorting Over Political Neighborhoods<u/> 
 Corey Lang, Jarron VanCeylon, and Shanna Pearson-Merkowitz
