@@ -5,5 +5,5 @@ permalink: <a href="https://jvan-econ.github.io/files/cv.pdf" target="_blank">PD
 
 author_profile: true
 redirect_from:
-  - /_files
+  - /cv
 ---
