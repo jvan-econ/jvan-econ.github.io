@@ -4,8 +4,8 @@ title: <u>Publications</u>
 permalink: /publications/
 author_profile: true
 ---
-## <u>Voting with Their (Left and Right) Feet: Are Homebuyers’ Values of Neighborhood Environmental Amenities Consistent with their Politics?</u>
-Forthcoming in *Journal of Environmental Economics and Management*, 2025 <br>
+## [Voting with Their (Left and Right) Feet: Are Homebuyers’ Values of Neighborhood Environmental Amenities Consistent with their Politics?](https://doi.org/10.1016/j.jeem.2025.103157)
+Published in *Journal of Environmental Economics and Management*, 2025 <br>
 Corey Lang and Jarron VanCeylon
 
 ## [Greenway Development and Gentrification](https://doi.org/10.1002/soej.12768)
