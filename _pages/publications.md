@@ -13,11 +13,11 @@ Published in *Southern Economic Journal*, 2025 <br>
 Jarron VanCeylon and Richard T. Melstrom
 
 ## [Individual voter determinants of school bond approval: evidence from exit polls](https://doi.org/10.1080/13504851.2025.2462719)
-Published in *Applied Economics Letters*, 2023 <br>
+Published in *Applied Economics Letters*, 2025 <br>
 Corey Lang and Jarron VanCeylon
 
 ## [Open Space](https://doi.org/10.1007/978-3-031-25900-5_302-1)
-Published in *The Encyclopedia of Human Geography*, 2025 <br>
+Published in *The Encyclopedia of Human Geography*, 2024 <br>
 Corey Lang and Jarron VanCeylon
 
 ## [Distribution of capitalized benefits from land conservation](https://www.pnas.org/doi/10.1073/pnas.2215262120)
@@ -43,7 +43,7 @@ Revise and resubmit at *ARER*, 2025 <br>
 Jarron VanCeylon
 
 ## [Does land conservation financially harm renters?](https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1005&context=enre_working_papers)
-Currently in review at *Landscape and Urban Planning*, 2025 <br>
+Currently in review at *Environmental Economics and Policy Studies*, 2025 <br>
 Corey Lang and Jarron VanCeylon
 
 ## <u>Redlining and the Geography of Environmental Capital</u>
