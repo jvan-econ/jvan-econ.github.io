@@ -4,8 +4,12 @@ title: <u>Publications</u>
 permalink: /publications/
 author_profile: true
 ---
-## <u>Renter Willingness to Pay for Urban Greenspace</u>
-Forthcoming at *Agricultural and Resource Economics Review*, 2025 <br>
+## <u>Household Migration in Response to Climate and Natural Disasters: Heterogeneous Sorting and Rural-Urban Resilience</u>
+Forthcoming at *American Journal of Agricultural Economics*, 2025 <br>
+Jarron VanCeylon and Richard T. Melstrom
+
+## [Renter Willingness to Pay for Urban Greenspace](https://doi.org/10.1017/age.2025.10011)
+*Agricultural and Resource Economics Review*, 2025 <br>
 Jarron VanCeylon
 
 ## [Voting with Their (Left and Right) Feet: Are Homebuyers’ Values of Neighborhood Environmental Amenities Consistent with their Politics?](https://doi.org/10.1016/j.jeem.2025.103157)
@@ -38,15 +42,11 @@ Jarron VanCeylon, Corey Lang, and Austin Becker
 
 # <u>Working Papers</u>
 
-## <u>Household Migration in Response to Climate and Natural Disasters: Heterogeneous Sorting and Rural-Urban Resilience</u>
-Revise and resubmit at *AJAE*, 2025 <br>
-Jarron VanCeylon and Richard T. Melstrom
-
 ## [Does land conservation financially harm renters?](https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1005&context=enre_working_papers)
 Currently in review at *Environmental Economics and Policy Studies*, 2025 <br>
 Corey Lang and Jarron VanCeylon
 
-## <u>Redlining and the Geography of Environmental Capital</u>
+## <u>Redlining and the Geography of Environmental Outcomes</u>
 Currently in review at *JEEM*, 2025 <br>
 Jarron VanCeylon and Richard T. Melstrom
 
