@@ -59,17 +59,20 @@ img {
 }
 
 /* ===== Topographic Background ===== */
-body::before {
-    content: '';
+.topo-bg {
     position: fixed;
     top: 0;
     left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
-    opacity: 0.06;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='600' viewBox='0 0 600 600'%3E%3Cpath d='M30 200 Q150 150 300 200 T570 180' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M20 240 Q160 190 320 240 T580 220' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M40 280 Q170 230 310 270 T560 260' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M50 320 Q180 280 330 310 T570 300' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M25 360 Q140 320 290 350 T575 340' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M35 400 Q160 360 310 390 T565 380' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M45 440 Q175 400 320 430 T555 420' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M20 480 Q150 440 300 470 T580 460' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M30 520 Q165 480 315 510 T570 500' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M40 560 Q155 520 305 550 T560 540' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M60 100 Q200 60 340 100 T580 80' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M50 140 Q190 100 330 140 T570 120' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M55 160 Q195 130 335 160 T565 150' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M35 60 Q180 30 320 60 T575 45' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Ccircle cx='150' cy='250' r='60' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='150' cy='250' r='40' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='150' cy='250' r='20' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='450' cy='420' r='70' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='450' cy='420' r='45' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='450' cy='420' r='22' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='500' cy='120' r='50' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='500' cy='120' r='30' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='80' cy='480' r='45' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='80' cy='480' r='25' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3C/svg%3E");
-    background-size: 600px 600px;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    pointer-events: none;
+    opacity: 0.07;
+    background-color: transparent;
+    background-image:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'%3E%3Cpath d='M20 120 Q100 80 200 120 T380 100' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M20 160 Q120 120 220 155 T380 140' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M20 200 Q110 170 200 200 T380 185' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M20 240 Q130 210 230 240 T380 225' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M20 280 Q100 250 200 275 T380 265' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M20 320 Q120 290 220 315 T380 305' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M20 360 Q110 330 210 355 T380 345' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M20 40 Q130 10 230 40 T380 25' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Cpath d='M20 80 Q100 50 200 75 T380 65' fill='none' stroke='%232d4a3e' stroke-width='1.5'/%3E%3Ccircle cx='100' cy='180' r='50' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='100' cy='180' r='30' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='100' cy='180' r='12' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='300' cy='300' r='55' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='300' cy='300' r='35' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='300' cy='300' r='15' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='320' cy='80' r='40' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3Ccircle cx='320' cy='80' r='22' fill='none' stroke='%232d4a3e' stroke-width='1.2'/%3E%3C/svg%3E");
+    background-size: 400px 400px;
+    background-repeat: repeat;
 }
 
 /* ===== Layout ===== */
@@ -81,10 +84,12 @@ body::before {
 
 .section {
     padding: 5rem 0;
+    position: relative;
+    z-index: 1;
 }
 
 .section-alt {
-    background: rgba(245, 241, 235, 0.85);
+    background: rgba(245, 241, 235, 0.92);
 }
 
 .section-title {
@@ -96,6 +101,19 @@ body::before {
     padding-bottom: 0.75rem;
     border-bottom: 3px solid var(--terracotta);
     display: inline-block;
+}
+
+.subsection-title {
+    font-family: var(--font-heading);
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--forest-light);
+    margin-bottom: 1.2rem;
+    margin-top: 2.5rem;
+}
+
+.subsection-title:first-of-type {
+    margin-top: 0;
 }
 
 /* ===== Navbar ===== */
@@ -195,19 +213,7 @@ body::before {
     align-items: center;
     padding: 7rem 2rem 4rem;
     position: relative;
-}
-
-.hero::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: 
-        radial-gradient(ellipse at 30% 60%, rgba(45, 74, 62, 0.05) 0%, transparent 55%),
-        radial-gradient(ellipse at 75% 25%, rgba(193, 124, 78, 0.04) 0%, transparent 45%);
-    pointer-events: none;
+    z-index: 1;
 }
 
 .hero-content {
@@ -217,8 +223,6 @@ body::before {
     grid-template-columns: auto 1fr;
     gap: 4rem;
     align-items: center;
-    position: relative;
-    z-index: 1;
 }
 
 .image-wrapper {
@@ -364,7 +368,7 @@ body::before {
 
 .pub-item {
     display: grid;
-    grid-template-columns: 70px 1fr;
+    grid-template-columns: 85px 1fr;
     gap: 1.5rem;
     padding: 1.8rem 2rem;
     background: var(--white);
@@ -384,16 +388,17 @@ body::before {
 }
 
 .pub-status {
-    font-size: 0.75rem;
+    font-size: 0.72rem;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.5px;
     color: var(--forest);
     background: rgba(45, 74, 62, 0.08);
-    padding: 0.2rem 0.7rem;
+    padding: 0.25rem 0.7rem;
     border-radius: 50px;
     display: inline-block;
     margin-top: 0.2rem;
+    white-space: nowrap;
 }
 
 .pub-content h3 {
@@ -689,6 +694,7 @@ body::before {
         opacity: 0;
         pointer-events: none;
         transition: var(--transition);
+        z-index: 999;
     }
 
     .nav-menu.active {
