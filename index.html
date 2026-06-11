@@ -495,15 +495,87 @@
         </div>
     </footer>
 
-    <!-- CHANGE 4: floating tooltip (must be outside all sections so z-index works) -->
-    <div id="fishTooltip" class="fish-tooltip" role="tooltip" aria-live="polite"></div>
+<script src="script.js"></script>
 
-    <!-- Existing script -->
-    <script src="script.js"></script>
+<!-- Publications data inline — no separate file needed -->
+<script>
+const PUBLICATIONS = [
+  {
+    title: "Distribution of Capitalized Benefits from Land Conservation",
+    authors: "Corey Lang, Jarron VanCeylon, and Amy Ando",
+    venue: "PNAS",
+    year: 2023,
+    citations: 42,
+    url: "https://doi.org/10.1073/pnas.2215262120"
+  },
+  {
+    title: "Variation in Valuation: Open Space and Geography",
+    authors: "Alex Blanchette, Corey Lang, and Jarron VanCeylon",
+    venue: "Land Economics",
+    year: 2021,
+    citations: 28,
+    url: "https://doi.org/10.3368/le.97.4.011720-0005R"
+  },
+  {
+    title: "Whatever Floats Your Vote: Voter Support for Public Port Infrastructure Investments",
+    authors: "Jarron VanCeylon, Corey Lang, and Austin Becker",
+    venue: "Maritime Policy and Management",
+    year: 2020,
+    citations: 19,
+    url: "https://doi.org/10.1080/03088839.2020.1754478"
+  },
+  {
+    title: "Voting with Their (Left and Right) Feet: Are Homebuyers' Values Consistent with their Politics?",
+    authors: "Corey Lang and Jarron VanCeylon",
+    venue: "Journal of Environmental Economics and Management",
+    year: 2025,
+    citations: 8,
+    url: "https://doi.org/10.1016/j.jeem.2025.103157"
+  },
+  {
+    title: "Household Migration in Response to Climate and Severe Weather",
+    authors: "Jarron VanCeylon and Richard T. Melstrom",
+    venue: "American Journal of Agricultural Economics",
+    year: 2025,
+    citations: 4,
+    url: "https://doi.org/10.1111/ajae.70016"
+  },
+  {
+    title: "Greenway Development and Gentrification",
+    authors: "Jarron VanCeylon and Richard T. Melstrom",
+    venue: "Southern Economic Journal",
+    year: 2025,
+    citations: 3,
+    url: "https://doi.org/10.1002/soej.12768"
+  },
+  {
+    title: "Renter Willingness to Pay for Urban Green Space",
+    authors: "Jarron VanCeylon",
+    venue: "Agricultural and Resource Economics Review",
+    year: 2025,
+    citations: 2,
+    url: "https://doi.org/10.1017/age.2025.10011"
+  },
+  {
+    title: "Individual Voter Determinants of School Bond Approval",
+    authors: "Corey Lang and Jarron VanCeylon",
+    venue: "Applied Economics Letters",
+    year: 2025,
+    citations: 1,
+    url: "https://doi.org/10.1080/13504851.2025.2462719"
+  },
+  {
+    title: "Open Space",
+    authors: "Corey Lang and Jarron VanCeylon",
+    venue: "Encyclopedia of Human Geography",
+    year: 2024,
+    citations: 1,
+    url: "https://doi.org/10.1007/978-3-031-25900-5_302-1"
+  }
+];
+</script>
 
-    <!-- CHANGE 5: pond scripts — publications.js MUST come before pond.js -->
-    <script src="publications.js"></script>
-    <script src="pond.js"></script>
+<script src="pond.js"></script>
 
 </body>
 </html>
