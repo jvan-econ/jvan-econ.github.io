@@ -813,86 +813,84 @@ img {
 
 
 
-/* ═══════════════════════════════════════════
-   FISH POND — Publications Visualizer
-   ═══════════════════════════════════════════ */
+/* ═══════════════════════════════════════════════════
+   FISH POND — earthy palette to match site theme
+   ═══════════════════════════════════════════════════ */
 
-/* ── Pond container ── */
+.pond-section {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(45, 80, 55, 0.15);
+}
+
 .pond-wrapper {
   position: relative;
   width: 100%;
   max-width: 960px;
-  margin: 1.2rem auto 1.8rem;
-
-  /* Oval pond illusion */
+  margin: 1rem auto 1rem;
   border-radius: 46% / 14%;
   overflow: hidden;
-
+  /* Earthy shadow matching site's forest green */
   box-shadow:
-    0 8px 32px rgba(0, 30, 50, 0.55),
-    inset 0 0 70px rgba(0, 0, 0, 0.32);
-  border: 3px solid rgba(80, 180, 210, 0.22);
-
-  /* Subtle reveal animation on page load */
+    0 8px 32px rgba(8, 28, 16, 0.45),
+    inset 0 0 60px rgba(0, 0, 0, 0.28);
+  border: 2px solid rgba(50, 100, 65, 0.30);
   animation: pondFadeIn 0.9s ease both;
 }
 
 @keyframes pondFadeIn {
-  from { opacity: 0; transform: translateY(18px) scaleX(0.97); }
-  to   { opacity: 1; transform: translateY(0)   scaleX(1); }
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
 
 #pondCanvas {
   display: block;
-  width:  100%;
+  width: 100%;
   height: auto;
 }
 
-/* ── Hint text above the pond ── */
 .pond-hint {
   text-align: center;
   font-size: 0.82rem;
-  color: #888;
-  margin: 0 0 0.6rem;
-  letter-spacing: 0.01em;
+  color: #7a8a7a;
+  margin: 0 0 0.75rem;
+  font-family: 'Source Sans 3', sans-serif;
 }
 
 .pond-hint span {
   display: inline-block;
-  background: rgba(100, 180, 220, 0.1);
-  border: 1px solid rgba(100, 180, 220, 0.25);
+  background: rgba(45, 80, 55, 0.08);
+  border: 1px solid rgba(45, 80, 55, 0.20);
   border-radius: 20px;
-  padding: 1px 10px;
+  padding: 2px 12px;
   margin-left: 6px;
   font-size: 0.78rem;
+  color: #5a7a62;
 }
 
-/* ── Tooltip ── */
+/* ── Tooltip — matches site's dark green + cream ── */
 .fish-tooltip {
   position: fixed;
   z-index: 9999;
   pointer-events: none;
-
-  background: rgba(6, 22, 32, 0.94);
-  color: #dff0f5;
-  border: 1px solid rgba(80, 190, 220, 0.22);
-  border-radius: 10px;
+  background: rgba(18, 38, 24, 0.95);
+  color: #e8e0d0;
+  border: 1px solid rgba(80, 140, 90, 0.25);
+  border-radius: 8px;
   padding: 10px 14px;
   max-width: 280px;
-  font-size: 0.81rem;
-  line-height: 1.55;
-
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 0.82rem;
+  line-height: 1.5;
   display: flex;
   flex-direction: column;
-  gap: 3px;
-
+  gap: 4px;
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
-  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.45);
-
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.40);
   opacity: 0;
   transform: translateY(5px);
-  transition: opacity 0.16s ease, transform 0.16s ease;
+  transition: opacity 0.15s ease, transform 0.15s ease;
 }
 
 .fish-tooltip.visible {
@@ -900,63 +898,34 @@ img {
   transform: translateY(0);
 }
 
-.tip-title   { font-weight: 700; font-size: 0.86rem; color: #6dcfea; line-height: 1.35; }
-.tip-authors { color: #9bbec8; font-size: 0.78rem; }
-.tip-meta    { color: #7aadb9; font-style: italic; font-size: 0.78rem; }
-.tip-cites   { color: #ffd060; font-size: 0.8rem; margin-top: 2px; }
-
-/* ── Fallback text list ── */
-.pub-list-toggle {
-  max-width: 760px;
-  margin: 0 auto 2rem;
-  font-size: 0.83rem;
-  color: #777;
-}
-
-.pub-list-toggle summary {
-  cursor: pointer;
-  color: #6dcfea;
-  font-size: 0.82rem;
-  text-align: center;
-  list-style: none;
-  padding: 6px 0;
-  opacity: 0.8;
-  transition: opacity 0.2s;
-}
-
-.pub-list-toggle summary:hover { opacity: 1; }
-
-.pub-list {
-  margin-top: 1rem;
-  padding-left: 1.2rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.9rem;
-}
-
-.pub-list li { line-height: 1.5; }
-
-.pub-list a {
+/* Title uses site's dark green tone */
+.tip-title {
   font-weight: 600;
-  color: inherit;
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  font-size: 0.85rem;
+  color: #a8d4b0;
+  line-height: 1.35;
 }
 
-.pub-meta {
-  display: block;
+/* Journal italic, warm cream */
+.tip-meta {
+  color: #c8bfa8;
+  font-style: normal;
   font-size: 0.78rem;
-  color: #888;
-  margin-top: 2px;
+}
+
+.tip-meta em {
+  font-style: italic;
+}
+
+/* Citations in site's rust/amber accent */
+.tip-cites {
+  color: #c8874a;
+  font-size: 0.77rem;
+  font-weight: 500;
 }
 
 /* ── Responsive ── */
 @media (max-width: 600px) {
-  .pond-wrapper {
-    border-radius: 12px;   /* flat on mobile — oval clips badly on narrow screens */
-  }
-  .fish-tooltip {
-    max-width: 210px;
-    font-size: 0.76rem;
-  }
+  .pond-wrapper { border-radius: 12px; }
+  .fish-tooltip { max-width: 220px; font-size: 0.78rem; }
 }
