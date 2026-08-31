@@ -929,3 +929,51 @@ img {
   .pond-wrapper { border-radius: 12px; }
   .fish-tooltip { max-width: 220px; font-size: 0.78rem; }
 }
+
+/* ═══════════════════════════════════════════════════
+   APPEND THIS TO THE END OF style.css
+   Styles the Google Scholar line beneath the pond.
+   Palette matched to the existing .pond-hint rules.
+   ═══════════════════════════════════════════════════ */
+
+.pond-scholar {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #7a8a7a;
+  margin: 1rem 0 0;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+.pond-scholar a {
+  color: #5a7a62;
+  font-weight: 500;
+  border-bottom: 1px solid rgba(45, 80, 55, 0.30);
+  padding-bottom: 1px;
+}
+
+.pond-scholar a:hover {
+  color: var(--terracotta);
+  border-bottom-color: var(--terracotta);
+}
+
+.pond-scholar i {
+  font-size: 0.7em;
+  margin-left: 0.25em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
